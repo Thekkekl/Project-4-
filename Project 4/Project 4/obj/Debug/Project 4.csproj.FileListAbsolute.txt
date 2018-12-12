@@ -1,0 +1,12 @@
+C:\C# 2015\Project 4\Project 4\bin\Debug\Project 4.exe.config
+C:\C# 2015\Project 4\Project 4\bin\Debug\Project 4.exe
+C:\C# 2015\Project 4\Project 4\bin\Debug\Project 4.pdb
+C:\C# 2015\Project 4\Project 4\obj\Debug\Project 4.csprojAssemblyReference.cache
+C:\C# 2015\Project 4\Project 4\obj\Debug\Project_4.CourseDetails.resources
+C:\C# 2015\Project 4\Project 4\obj\Debug\Project_4.Properties.Resources.resources
+C:\C# 2015\Project 4\Project 4\obj\Debug\Project 4.csproj.GenerateResource.cache
+C:\C# 2015\Project 4\Project 4\obj\Debug\Project 4.csproj.CoreCompileInputs.cache
+C:\C# 2015\Project 4\Project 4\obj\Debug\Project 4.exe
+C:\C# 2015\Project 4\Project 4\obj\Debug\Project 4.pdb
+C:\C# 2015\Project 4\Project 4\bin\Debug\Database1.mdf
+C:\C# 2015\Project 4\Project 4\bin\Debug\Database1_log.ldf
